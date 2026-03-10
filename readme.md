@@ -1,4 +1,4 @@
-# Segmentação de Clientes com Machine Learning
+# Clusterização Estratégica para Personalização de Campanhas de Marketing
 
 ## Descrição do Projeto
 Este projeto tem como objetivo a segmentação estratégica de uma base de clientes utilizando técnicas de aprendizado de máquina não supervisionado. Através do algoritmo K-Means, os clientes são agrupados com base em perfis sociodemográficos e de consumo (idade, renda anual e pontuação de gastos). 
@@ -118,6 +118,7 @@ O resultado da segmentação processado em Python foi integrado ao Power BI Desk
 
 ---
 *Projeto desenvolvido como parte do programa de formação em Business Intelligence da Data Science Academy.*
+
 
 
 
